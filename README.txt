@@ -20,3 +20,9 @@ Notepad README.txt
 git status
 git add Notepad README.txt
 git commit -m "INTIAL GOOD COMMENT".....etc
+
+
+### ADDING INDEX FINE IN READ ME.
+
+# Website Content
+1.index.html
