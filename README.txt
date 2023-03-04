@@ -19,4 +19,4 @@ ls -a(hidden filed)
 Notepad README.txt
 git status
 git add Notepad README.txt
-git commit -m "INTIAL GOOD COMMENT"
+git commit -m "INTIAL GOOD COMMENT".....etc
