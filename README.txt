@@ -24,5 +24,5 @@ git commit -m "INTIAL GOOD COMMENT".....etc
 
 ### ADDING INDEX FINE IN READ ME.
 
-# Website Content
+# Website Content to this page.
 1.index.html
