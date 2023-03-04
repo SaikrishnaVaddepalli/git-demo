@@ -3,7 +3,7 @@
 This is a new file for git-demo repository.
 
 
-## Ipsum Below
+## Ipsum Below commands
 git --help or git help
 git help config
 git config --global user.name "YOUR NAME"
